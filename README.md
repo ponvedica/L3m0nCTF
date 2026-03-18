@@ -1,3 +1,1 @@
-authored by vedica 
-
-- L3m0nCTF '25
+authored by vedica - L3m0nCTF '25
